@@ -4,5 +4,5 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexsantosmoreir/)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex&show_icons=true&theme=dracula)
 
