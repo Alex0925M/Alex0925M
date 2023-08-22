@@ -10,6 +10,9 @@
   <img align="center" alt="Alex-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
+<img align="right" alt="Personagem de RPG" height="200" width="200"
+   src="https://cdn.picrew.me/shareImg/org/202308/2116305_0ZWYaRQM.png">
+
 ##
 <div> 
   <a href="https://www.instagram.com/alexsantosmoreir/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,5 +21,5 @@
 </div>
 
 ##
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex0925M)](https://github.com/Alex0925M/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex0925M&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
