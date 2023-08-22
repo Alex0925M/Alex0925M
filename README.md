@@ -21,5 +21,5 @@
 </div>
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex0925M)](https://github.com/Alex0925M/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex0925M&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex0925M)](https://github-readme-stats.vercel.app/api?username=Alex0925M&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex0925M&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
